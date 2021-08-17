@@ -214,6 +214,14 @@ a = \langle y \rangle - b \langle x \rangle . \label{lsf}
 \sigma_{\lambda} \approx \frac{1}{\sqrt{n}}\sqrt{\frac{\langle L^2 \rangle - \langle L \rangle ^ 2}{\langle N^2 \rangle - \langle N \rangle ^ 2} - \left(\lambda/2\right)^2} . \label{lsf2}
 \end{equation}
 
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.9\textwidth]{plot_1.png}
+\end{center}
+\caption{График для воздуха}
+\label{fig:plot1}
+\end{figure}
+
 Подставив значения из таблицы \ref{air} в форумы получим значения для воздуха:
 
 
@@ -288,6 +296,14 @@ $\sigma_{\lambda/2}$ & 0.5 & 0.8 & 0.2 & 0.1 & 0.3 \\
 \hline 
 \end{tabular} 
 \end{center}
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.9\textwidth]{plot_2.png}
+\end{center}
+\caption{График для CO$_2$}
+\label{fig:plot2}
+\end{figure}
+
 \item Вычислим значение $\gamma =C_p/C_v$ по формуле (1). Оценим ошибку измерений.
 
 Найдём по полученным из графиков значениям скорость звука по формулам:
@@ -333,7 +349,7 @@ $ \sigma_c $ & 1.0 & 3.0 & 1.0 & 1.0 & 2.0 \\
 \end{tabular}
 \end{center}
 
-Далее вычислим $\gamma = C_p / C_v $ по формуле (\ref{gamma}) подставив полученные значения для $c$ и $\mu_{возд.} = 0.02897$ кг/моль, $ \mu_{\text{CO}_2} = 0.044 $ кг/моль:
+Далее вычислим $\gamma = C_p / C_v $ по формуле (2) подставив полученные значения для $c$ и $\mu_{возд.} = 0.02897$ кг/моль, $ \mu_{\text{CO}_2} = 0.044 $ кг/моль:
 
 \[
 \gamma_{возд.} = \frac{\mu_{возд.}}{RT} c^2_{\text{возд.}}, \;\;\; \gamma_{\text{CO}_2} = \frac{\mu_{\text{CO}_2}}{RT} c^2_{\text{CO}_2}, \;\;\; \sigma_{\gamma} = \gamma \sqrt{4 \left(\frac{\sigma_c}{c} \right)^2 + \left(\frac{\sigma_T}{T} \right)^2}.

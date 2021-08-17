@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  20 APR 2021 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  5 MAY 2021 03:24
 entering extended mode
 **./lab_2_5_1.tex
 (lab_2_5_1.tex
@@ -594,7 +594,7 @@ Package pdftex.def Info: plot_2.png  used on input line 282.
  [8 <./plot_1.png (PNG copy)> <./plot_2.png (PNG copy)>] [9] (lab_2_5_1.aux) ) 
 Here is how much of TeX's memory you used:
  5297 strings out of 479618
- 68838 string characters out of 2882015
+ 68858 string characters out of 2882015
  394604 words of memory out of 3000000
  22376 multiletter control sequences out of 15000+200000
  420917 words of font info for 73 fonts, out of 3000000 for 9000

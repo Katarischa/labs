@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  27 APR 2021 18:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  5 MAY 2021 00:47
 entering extended mode
-**./lab_1_3_3.tex
-(lab_1_3_3.tex
+**./laba.tex
+(laba.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (C:\latex\tex/latex/base\article.cls
@@ -437,25 +437,25 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box50
-) (lab_1_3_3.aux)
-\openout1 = `lab_1_3_3.aux'.
+) (laba.aux)
+\openout1 = `laba.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -491,7 +491,7 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 23.
+LaTeX Info: Redefining \th on input line 26.
 (C:\latex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count273
@@ -510,47 +510,151 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
 
 (C:\latex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 
  (C:\latex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 25
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 28
 .
 
 (C:\latex\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 ) [1
 
-{C:/Users/Marina/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] (lab_1_3_3
-.aux) ) 
+{C:/Users/Marina/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+<ustanovka_1.png, id=17, 673.91776pt x 394.47375pt>
+File: ustanovka_1.png Graphic file (type png)
+<use ustanovka_1.png>
+Package pdftex.def Info: ustanovka_1.png  used on input line 102.
+(pdftex.def)             Requested size: 271.7835pt x 159.08684pt.
+<ustanovka_2.png, id=18, 647.41875pt x 423.984pt>
+File: ustanovka_2.png Graphic file (type png)
+<use ustanovka_2.png>
+Package pdftex.def Info: ustanovka_2.png  used on input line 113.
+(pdftex.def)             Requested size: 271.7835pt x 177.98795pt.
+ [3 <./ustanovka_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+
+ []
+
+[4 <./ustanovka_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[5]
+<plot_1.png, id=31, 758.08218pt x 596.2275pt>
+File: plot_1.png Graphic file (type png)
+<use plot_1.png>
+Package pdftex.def Info: plot_1.png  used on input line 219.
+(pdftex.def)             Requested size: 407.66833pt x 320.62979pt.
+ [6 <./plot_1.png (PNG copy)>]
+<plot_2.png, id=35, 526.96875pt x 395.22656pt>
+File: plot_2.png Graphic file (type png)
+<use plot_2.png>
+Package pdftex.def Info: plot_2.png  used on input line 301.
+(pdftex.def)             Requested size: 407.66833pt x 305.76671pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7]
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 352.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 352.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 352.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 352.
+
+Missing character: There is no в in font cmr8!
+Missing character: There is no о in font cmr8!
+Missing character: There is no з in font cmr8!
+Missing character: There is no д in font cmr8!
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyrv invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 355.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 355.
+
+Missing character: There is no в in font cmr8!
+Missing character: There is no о in font cmr8!
+Missing character: There is no з in font cmr8!
+Missing character: There is no д in font cmr8!
+Missing character: There is no в in font cmr8!
+Missing character: There is no о in font cmr8!
+Missing character: There is no з in font cmr8!
+Missing character: There is no д in font cmr8!
+[8 <./plot_2.png (PNG copy)>]
+Overfull \hbox (9.48724pt too wide) in paragraph at lines 369--370
+[]\T2A/cmr/m/n/12 Полученные на-ми зна-че-ния для по-ка-за-те-лей адиа-ба-ты: $
+\OML/cmm/m/it/12 [] \OT1/cmr/m/n/12 = 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 40 \O
+MS/cmsy/m/n/12  \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02\OML/cmm/
+m/it/12 ;  [] \OT1/cmr/m/n/12 =
+ []
+
+[9] (laba.aux) ) 
 Here is how much of TeX's memory you used:
- 5271 strings out of 479618
- 68522 string characters out of 2882015
- 372542 words of memory out of 3000000
- 22358 multiletter control sequences out of 15000+200000
- 417667 words of font info for 69 fonts, out of 3000000 for 9000
+ 5324 strings out of 479618
+ 69201 string characters out of 2882015
+ 392613 words of memory out of 3000000
+ 22402 multiletter control sequences out of 15000+200000
+ 423613 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,356b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-labx1440.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\labx1200.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\labx1728.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh
-/lh-t2a/dpi600\larm1200.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk
-/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:/latex/fonts/type1/public/amsfonts/cm/c
-mmi12.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/latex/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb>
-Output written on lab_1_3_3.pdf (2 pages, 99846 bytes).
+ 68i,9n,74p,744b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2
+a/dpi600\larm0600.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\larm0800.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Marina\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Marina\AppData\Local\MiKTeX
+\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Marina\AppData\Local\M
+iKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Marina\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\Marina\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm2074.pk><C:/latex/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmmi
+10.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/latex/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/latex/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/latex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on laba.pdf (9 pages, 371023 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
+ 319 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
