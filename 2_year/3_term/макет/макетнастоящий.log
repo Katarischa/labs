@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  26 OCT 2021 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  7 APR 2022 15:10
 entering extended mode
 **./макетнастоящий.tex
 (макетнастоящий.tex
@@ -438,7 +438,7 @@ File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box50
 )
-No file макетнастоящий.aux.
+(макетнастоящий.aux)
 \openout1 = `макетнастоящий.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -457,6 +457,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -514,9 +515,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 {C:/Users/Marina/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (макетн�
 �стоящий.aux) ) 
 Here is how much of TeX's memory you used:
- 5179 strings out of 479618
- 67446 string characters out of 2882015
- 368438 words of memory out of 3000000
+ 5181 strings out of 479618
+ 67536 string characters out of 2882015
+ 367429 words of memory out of 3000000
  22298 multiletter control sequences out of 15000+200000
  406154 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -525,9 +526,9 @@ Here is how much of TeX's memory you used:
 /lh-t2a/dpi600\larm1200.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk/ljfo
 ur/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Marina\AppData\Local\MiKTeX\fonts/pk
 /ljfour/lh/lh-t2a/dpi600\larm1728.pk>
-Output written on макетнастоящий.pdf (1 page, 19635 bytes).
+Output written on макетнастоящий.pdf (1 page, 19054 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
